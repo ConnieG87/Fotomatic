@@ -22,7 +22,8 @@ html {
 }
 
 #sign-up-cta {
-  margin: 170px auto auto 100px;
+  margin-top: 170px;
+  margin-left: 100px;
 }
 
 .center {
@@ -53,6 +54,7 @@ html {
 
 header {
   position: fixed;
+  z-index: 100;
   width: 100%;
   border-bottom: solid 1px #c6c1c1;
   background-color: white;
